@@ -1,0 +1,504 @@
+{
+  "companyName": "H&M",
+  "mode": "fixture",
+  "label": "Demo (FINAL workbook — H&M)",
+  "overall": {
+    "score": 51.2,
+    "level": "Established"
+  },
+  "topics": [
+    {
+      "topic": "E1",
+      "weightedScore": 54.2,
+      "maturityLevel": "Established",
+      "policy": 53.3,
+      "action": 50.5,
+      "metric": 47.9,
+      "target": 70.0
+    },
+    {
+      "topic": "E2",
+      "weightedScore": 40.0,
+      "maturityLevel": "Progressing",
+      "policy": 48.9,
+      "action": 53.3,
+      "metric": 6.7,
+      "target": 60.9
+    },
+    {
+      "topic": "E3",
+      "weightedScore": 52.3,
+      "maturityLevel": "Established",
+      "policy": 72.0,
+      "action": 55.8,
+      "metric": 26.7,
+      "target": 65.8
+    },
+    {
+      "topic": "E4",
+      "weightedScore": 32.9,
+      "maturityLevel": "Progressing",
+      "policy": 39.8,
+      "action": 45.0,
+      "metric": 22.2,
+      "target": 24.0
+    },
+    {
+      "topic": "E5",
+      "weightedScore": 69.3,
+      "maturityLevel": "Leading",
+      "policy": 75.0,
+      "action": 80.0,
+      "metric": 56.4,
+      "target": 66.7
+    },
+    {
+      "topic": "S1",
+      "weightedScore": 55.1,
+      "maturityLevel": "Established",
+      "policy": 71.3,
+      "action": 57.7,
+      "metric": 43.0,
+      "target": 53.3
+    },
+    {
+      "topic": "S2",
+      "weightedScore": 71.0,
+      "maturityLevel": "Leading",
+      "policy": 76.0,
+      "action": 67.3,
+      "metric": 72.0,
+      "target": 70.0
+    },
+    {
+      "topic": "S3",
+      "weightedScore": 40.0,
+      "maturityLevel": "Progressing",
+      "policy": 65.0,
+      "action": 41.0,
+      "metric": 46.7,
+      "target": 3.3
+    },
+    {
+      "topic": "S4",
+      "weightedScore": 56.3,
+      "maturityLevel": "Established",
+      "policy": 66.7,
+      "action": 62.2,
+      "metric": 72.0,
+      "target": 13.3
+    },
+    {
+      "topic": "G1",
+      "weightedScore": 40.8,
+      "maturityLevel": "Progressing",
+      "policy": 53.8,
+      "action": 72.5,
+      "metric": 27.5,
+      "target": 0.0
+    }
+  ],
+  "sources": [
+    {
+      "sheetName": "E2 Indicator ve Soru Seti",
+      "indicatorRef": "E-2-1 / Satır 2 / Pollution policy existence",
+      "infoSummary": "Environmental Policy ve Chemical Restrictions List kamuya açık; kirliliği önleme, tehlikeli kimyasalları sınırlama ve atık su uyumunu yönetme taahhüdü veriliyor.",
+      "sourceType": "yüklenen doküman / yıllık-sürdürülebilirlik raporu",
+      "documentName": "HM Group Annual & Sustainability Report 2025",
+      "pageOrUrl": "PDF s.43 ve s.62, Water pollution / Our policies and commitments",
+      "accessNote": "Yüklenen PDF",
+      "confidence": "Yüksek"
+    },
+    {
+      "sheetName": "E2 Indicator ve Soru Seti",
+      "indicatorRef": " / Satır 3 / Policy scope and topic coverage",
+      "infoSummary": "Politika çevresel kirliliği genel olarak kapsıyor; ancak raporda en güçlü ve detaylı açıklama su kirliliği/kimyasal yönetimi için veriliyor, hava ve toprak ayrı derinlikte açılmıyor.",
+      "sourceType": "yüklenen doküman / yıllık-sürdürülebilirlik raporu",
+      "documentName": "HM Group Annual & Sustainability Report 2025",
+      "pageOrUrl": "PDF s.43 ve s.62, Water pollution / Our policies and commitments",
+      "accessNote": "Yüklenen PDF",
+      "confidence": "Orta"
+    },
+    {
+      "sheetName": "E2 Indicator ve Soru Seti",
+      "indicatorRef": " / Satır 4 / Policy scope and topic coverage",
+      "infoSummary": "Politika ve aksiyonlar mikrofiber/mikroplastik salımını açıkça ele alıyor; Microfibre 2030 taahhüdü de belirtiliyor.",
+      "sourceType": "yüklenen doküman / yıllık-sürdürülebilirlik raporu",
+      "documentName": "HM Group Annual & Sustainability Report 2025",
+      "pageOrUrl": "PDF s.43 ve s.62, Water pollution / Our policies and commitments",
+      "accessNote": "Yüklenen PDF",
+      "confidence": "Yüksek"
+    },
+    {
+      "sheetName": "E2 Indicator ve Soru Seti",
+      "indicatorRef": " / Satır 5 / ",
+      "infoSummary": "Chemical Restrictions List, SoC ve SVHC kullanımını önleme/sınırlandırma ve daha zararlı maddeleri aşamalı kaldırma taahhüdü içeriyor.",
+      "sourceType": "yüklenen doküman / yıllık-sürdürülebilirlik raporu",
+      "documentName": "HM Group Annual & Sustainability Report 2025",
+      "pageOrUrl": "PDF s.62, Our policies and commitments",
+      "accessNote": "Yüklenen PDF",
+      "confidence": "Yüksek"
+    },
+    {
+      "sheetName": "E2 Indicator ve Soru Seti",
+      "indicatorRef": " / Satır 6 / ",
+      "infoSummary": "Environmental Policy own operations ile upstream/downstream value chain kapsamını açıkça tanımlıyor.",
+      "sourceType": "yüklenen doküman / yıllık-sürdürülebilirlik raporu",
+      "documentName": "HM Group Annual & Sustainability Report 2025",
+      "pageOrUrl": "PDF s.62, Our policies and commitments",
+      "accessNote": "Yüklenen PDF",
+      "confidence": "Yüksek"
+    },
+    {
+      "sheetName": "E2 Indicator ve Soru Seti",
+      "indicatorRef": " / Satır 7 / Policy alignment with ESRS 2 GDR-P",
+      "infoSummary": "Politikanın amacı; kritik kaynak kullanımını ve çevresel etkileri azaltmak, kirliliği önlemek ve uyumu sağlamak olarak açıklanıyor.",
+      "sourceType": "yüklenen doküman / yıllık-sürdürülebilirlik raporu",
+      "documentName": "HM Group Annual & Sustainability Report 2025",
+      "pageOrUrl": "PDF s.62, Our policies and commitments",
+      "accessNote": "Yüklenen PDF",
+      "confidence": "Yüksek"
+    },
+    {
+      "sheetName": "E2 Indicator ve Soru Seti",
+      "indicatorRef": " / Satır 8 / Policy alignment with ESRS 2 GDR-P",
+      "infoSummary": "Politika Paris Agreement, SBTi, AFIRM RSL, ZDHC MRSL ve ZDHC Wastewater Guidelines gibi çerçevelere referans veriyor.",
+      "sourceType": "yüklenen doküman / yıllık-sürdürülebilirlik raporu",
+      "documentName": "HM Group Annual & Sustainability Report 2025",
+      "pageOrUrl": "PDF s.62, Our policies and commitments",
+      "accessNote": "Yüklenen PDF",
+      "confidence": "Yüksek"
+    },
+    {
+      "sheetName": "E2 Indicator ve Soru Seti",
+      "indicatorRef": " / Satır 9 / ",
+      "infoSummary": "Politikanın double materiality assessment ve stakeholder input ile beslendiği belirtiliyor; ancak paydaş katkısı pollution özelinde detaylı ayrıştırılmıyor.",
+      "sourceType": "yüklenen doküman / yıllık-sürdürülebilirlik raporu",
+      "documentName": "HM Group Annual & Sustainability Report 2025",
+      "pageOrUrl": "PDF s.62, Our policies and commitments",
+      "accessNote": "Yüklenen PDF",
+      "confidence": "Yüksek"
+    },
+    {
+      "sheetName": "E2 Indicator ve Soru Seti",
+      "indicatorRef": "E-2-2 / Satır 10 / Pollution action existence",
+      "infoSummary": "Ana aksiyonlar açıklanmış: aylık kimyasal raporlama, ZDHC Gateway/InCheck, yıllık ve habersiz wastewater testleri, hedefli ürün testleri ve Microfibre 2030 çalışmaları.",
+      "sourceType": "yüklenen doküman / yıllık-sürdürülebilirlik raporu",
+      "documentName": "HM Group Annual & Sustainability Report 2025",
+      "pageOrUrl": "PDF s.43 ve s.62, Water pollution / Our policies and commitments",
+      "accessNote": "Yüklenen PDF",
+      "confidence": "Yüksek"
+    },
+    {
+      "sheetName": "E2 Indicator ve Soru Seti",
+      "indicatorRef": " / Satır 11 / Action scope and implementation",
+      "infoSummary": "Aksiyonlar kimyasal kullanım, wastewater kalitesi, MRSL uyumu ve mikroplastik/mikrofiber risklerine yöneltilmiş durumda.",
+      "sourceType": "yüklenen doküman / yıllık-sürdürülebilirlik raporu",
+      "documentName": "HM Group Annual & Sustainability Report 2025",
+      "pageOrUrl": "PDF s.43 ve s.62, Water pollution / Our policies and commitments",
+      "accessNote": "Yüklenen PDF",
+      "confidence": "Yüksek"
+    },
+    {
+      "sheetName": "E2 Indicator ve Soru Seti",
+      "indicatorRef": " / Satır 12 / Action scope and implementation",
+      "infoSummary": "Rapor aksiyonların 2025'te yürürlükte ve uygulanmakta olduğunu gösteriyor; yalnızca bazı metodoloji geliştirme adımları ileriye dönük.",
+      "sourceType": "yüklenen doküman / yıllık-sürdürülebilirlik raporu",
+      "documentName": "HM Group Annual & Sustainability Report 2025",
+      "pageOrUrl": "PDF s.43 ve s.62, Water pollution / Our policies and commitments",
+      "accessNote": "Yüklenen PDF",
+      "confidence": "Yüksek"
+    },
+    {
+      "sheetName": "E2 Indicator ve Soru Seti",
+      "indicatorRef": " / Satır 13 / ",
+      "infoSummary": "Kapsam özellikle upstream Tier 1-2 wet processing tesisleri ve ürün kimyasal uyum süreçleri için tanımlanıyor.",
+      "sourceType": "yüklenen doküman / yıllık-sürdürülebilirlik raporu",
+      "documentName": "HM Group Annual & Sustainability Report 2025",
+      "pageOrUrl": "PDF s.43 ve s.62, Water pollution / Our policies and commitments",
+      "accessNote": "Yüklenen PDF",
+      "confidence": "Yüksek"
+    },
+    {
+      "sheetName": "E2 Indicator ve Soru Seti",
+      "indicatorRef": " / Satır 14 / Resource allocation",
+      "infoSummary": "Teknik kapasite ve sistem kullanımı açık; ancak pollution aksiyonları için ayrılmış ayrı CapEx/OpEx tutarı açıklanmıyor.",
+      "sourceType": "yüklenen doküman / yıllık-sürdürülebilirlik raporu",
+      "documentName": "HM Group Annual & Sustainability Report 2025",
+      "pageOrUrl": "PDF s.43 ve s.62, Water pollution / Our policies and commitments",
+      "accessNote": "Yüklenen PDF",
+      "confidence": "Orta"
+    },
+    {
+      "sheetName": "E2 Indicator ve Soru Seti",
+      "indicatorRef": " / Satır 15 / Resource allocation",
+      "infoSummary": "Kirlilik aksiyonları için raporlama dönemine ait ayrı finansal kaynak tutarı açıklanmıyor.",
+      "sourceType": "yüklenen doküman / yıllık-sürdürülebilirlik raporu",
+      "documentName": "HM Group Annual & Sustainability Report 2025",
+      "pageOrUrl": "PDF s.43 ve s.62, Water pollution / Our policies and commitments",
+      "accessNote": "Yüklenen PDF",
+      "confidence": "Orta"
+    },
+    {
+      "sheetName": "E2 Indicator ve Soru Seti",
+      "indicatorRef": " / Satır 16 / ",
+      "infoSummary": "Gelecek dönem için pollution aksiyonlarına ilişkin ayrı kaynak aralığı verilmemiş.",
+      "sourceType": "yüklenen doküman / yıllık-sürdürülebilirlik raporu",
+      "documentName": "HM Group Annual & Sustainability Report 2025",
+      "pageOrUrl": "PDF s.43 ve s.62, Water pollution / Our policies and commitments",
+      "accessNote": "Yüklenen PDF",
+      "confidence": "Orta"
+    },
+    {
+      "sheetName": "E2 Indicator ve Soru Seti",
+      "indicatorRef": " / Satır 17 / Action-resource linkage",
+      "infoSummary": "Aksiyonların beklenen çıktısı; wastewater uyumu, MRSL uyumu, daha güvenli kimyasallar ve çevreye salımın azaltılması olarak politika hedefleriyle ilişkilendiriliyor.",
+      "sourceType": "yüklenen doküman / yıllık-sürdürülebilirlik raporu",
+      "documentName": "HM Group Annual & Sustainability Report 2025",
+      "pageOrUrl": "PDF s.43 ve s.62, Water pollution / Our policies and commitments",
+      "accessNote": "Yüklenen PDF",
+      "confidence": "Yüksek"
+    },
+    {
+      "sheetName": "E2 Indicator ve Soru Seti",
+      "indicatorRef": "E-2-3 / Satır 18 / Pollution target existence",
+      "infoSummary": "Kirlilikle ilgili ölçülebilir hedefler var: 2025'te ZDHC compliant discharged water quality'yi sürdürme ve 2030'da ZDHC MRSL assured chemicals oranını %95'e çıkarma.",
+      "sourceType": "yüklenen doküman / yıllık-sürdürülebilirlik raporu",
+      "documentName": "HM Group Annual & Sustainability Report 2025",
+      "pageOrUrl": "PDF s.43 ve s.62, Water pollution / Our policies and commitments",
+      "accessNote": "Yüklenen PDF",
+      "confidence": "Yüksek"
+    },
+    {
+      "sheetName": "E2 Indicator ve Soru Seti",
+      "indicatorRef": " / Satır 19 / Target design quality",
+      "infoSummary": "Hedefler pollution başlığında özellikle wastewater kalitesi ve kimyasal yönetimi için tanımlı; fakat hava/toprak/mikroplastik için eşit detay yok.",
+      "sourceType": "yüklenen doküman / yıllık-sürdürülebilirlik raporu",
+      "documentName": "HM Group Annual & Sustainability Report 2025",
+      "pageOrUrl": "PDF s.43 ve s.62, Water pollution / Our policies and commitments",
+      "accessNote": "Yüklenen PDF",
+      "confidence": "Orta"
+    },
+    {
+      "sheetName": "E2 Indicator ve Soru Seti",
+      "indicatorRef": " / Satır 20 / Target design quality",
+      "infoSummary": "Hedef seviyesi açık: 2025 için %100 wastewater compliance; 2030 için %95 ZDHC MRSL assured chemicals.",
+      "sourceType": "yüklenen doküman / yıllık-sürdürülebilirlik raporu",
+      "documentName": "HM Group Annual & Sustainability Report 2025",
+      "pageOrUrl": "PDF s.43 ve s.62, Water pollution / Our policies and commitments",
+      "accessNote": "Yüklenen PDF",
+      "confidence": "Yüksek"
+    },
+    {
+      "sheetName": "E2 Indicator ve Soru Seti",
+      "indicatorRef": " / Satır 21 / ",
+      "infoSummary": "Hedef mantığı açık; ancak her pollution hedefi için ayrı baseline yapısı tam detayda verilmemiş.",
+      "sourceType": "yüklenen doküman / yıllık-sürdürülebilirlik raporu",
+      "documentName": "HM Group Annual & Sustainability Report 2025",
+      "pageOrUrl": "PDF s.43 ve s.62, Water pollution / Our policies and commitments",
+      "accessNote": "Yüklenen PDF",
+      "confidence": "Orta"
+    },
+    {
+      "sheetName": "E2 Indicator ve Soru Seti",
+      "indicatorRef": " / Satır 22 / ",
+      "infoSummary": "2025 ve 2030 hedef yılları tanımlanmış; ara kilometre taşları sınırlı.",
+      "sourceType": "yüklenen doküman / yıllık-sürdürülebilirlik raporu",
+      "documentName": "HM Group Annual & Sustainability Report 2025",
+      "pageOrUrl": "PDF s.43 ve s.62, Water pollution / Our policies and commitments",
+      "accessNote": "Yüklenen PDF",
+      "confidence": "Yüksek"
+    },
+    {
+      "sheetName": "E2 Indicator ve Soru Seti",
+      "indicatorRef": " / Satır 23 / ",
+      "infoSummary": "Hedeflerin ZDHC temelli metodolojisi ve uyum yaklaşımı açıklanıyor; fakat varsayımlar sınırlı düzeyde açılıyor.",
+      "sourceType": "yüklenen doküman / yıllık-sürdürülebilirlik raporu",
+      "documentName": "HM Group Annual & Sustainability Report 2025",
+      "pageOrUrl": "PDF s.43 ve s.62, Water pollution / Our policies and commitments",
+      "accessNote": "Yüklenen PDF",
+      "confidence": "Orta"
+    },
+    {
+      "sheetName": "E2 Indicator ve Soru Seti",
+      "indicatorRef": " / Satır 24 / Target tracking",
+      "infoSummary": "Hedefler, Environmental Policy ve yürürlükteki kimyasal/wastewater aksiyonlarıyla bağlanıyor.",
+      "sourceType": "yüklenen doküman / yıllık-sürdürülebilirlik raporu",
+      "documentName": "HM Group Annual & Sustainability Report 2025",
+      "pageOrUrl": "PDF s.43 ve s.62, Water pollution / Our policies and commitments",
+      "accessNote": "Yüklenen PDF",
+      "confidence": "Yüksek"
+    },
+    {
+      "sheetName": "E2 Indicator ve Soru Seti",
+      "indicatorRef": " / Satır 25 / Target tracking",
+      "infoSummary": "İlerleme ZDHC Gateway/InCheck ve wastewater compliance verileriyle takip ediliyor; 2025 sonucu olarak MRSL assured chemicals oranı da paylaşılıyor.",
+      "sourceType": "yüklenen doküman / yıllık-sürdürülebilirlik raporu",
+      "documentName": "HM Group Annual & Sustainability Report 2025",
+      "pageOrUrl": "PDF s.43 ve s.62, Water pollution / Our policies and commitments",
+      "accessNote": "Yüklenen PDF",
+      "confidence": "Yüksek"
+    },
+    {
+      "sheetName": "E2 Indicator ve Soru Seti",
+      "indicatorRef": " / Satır 26 / ",
+      "infoSummary": "Ölçülebilir hedefler bulunduğu için aksiyon takibi esasen bu veri akışları ve uyum testleri üzerinden yürütülüyor.",
+      "sourceType": "yüklenen doküman / yıllık-sürdürülebilirlik raporu",
+      "documentName": "HM Group Annual & Sustainability Report 2025",
+      "pageOrUrl": "PDF s.43 ve s.62, Water pollution / Our policies and commitments",
+      "accessNote": "Yüklenen PDF",
+      "confidence": "Yüksek"
+    },
+    {
+      "sheetName": "E2 Indicator ve Soru Seti",
+      "indicatorRef": "E-2-4 / Satır 27 / Material pollutant emissions disclosure",
+      "infoSummary": "Şirket material pollutant emissions miktarlarını kg/ton bazında açıklamıyor; rapor yalnızca water pollution riskini ve uyum mekanizmasını anlatıyor.",
+      "sourceType": "yüklenen doküman / yıllık-sürdürülebilirlik raporu",
+      "documentName": "HM Group Annual & Sustainability Report 2025",
+      "pageOrUrl": "PDF s.43 ve s.62, Water pollution / Our policies and commitments",
+      "accessNote": "Yüklenen PDF",
+      "confidence": "Orta"
+    },
+    {
+      "sheetName": "E2 Indicator ve Soru Seti",
+      "indicatorRef": " / Satır 28 / Material pollutant emissions disclosure",
+      "infoSummary": "Kapsam own operations ve value chain olarak nicel emisyon seti halinde verilmemiş; esas açıklama upstream supply chain için nitel.",
+      "sourceType": "yüklenen doküman / yıllık-sürdürülebilirlik raporu",
+      "documentName": "HM Group Annual & Sustainability Report 2025",
+      "pageOrUrl": "PDF s.43 ve s.62, Water pollution / Our policies and commitments",
+      "accessNote": "Yüklenen PDF",
+      "confidence": "Orta"
+    },
+    {
+      "sheetName": "E2 Indicator ve Soru Seti",
+      "indicatorRef": " / Satır 29 / Environmental accident-related emissions",
+      "infoSummary": "Çevresel kazalara bağlı kirletici emisyonlara ilişkin ayrı disclosure görülmüyor.",
+      "sourceType": "yüklenen doküman / yıllık-sürdürülebilirlik raporu",
+      "documentName": "HM Group Annual & Sustainability Report 2025",
+      "pageOrUrl": "PDF s.43 ve s.62, Water pollution / Our policies and commitments",
+      "accessNote": "Yüklenen PDF",
+      "confidence": "Orta"
+    },
+    {
+      "sheetName": "E2 Indicator ve Soru Seti",
+      "indicatorRef": " / Satır 30 / Primary microplastics",
+      "infoSummary": "Üretilen/kullanılan birincil mikroplastik miktarı açıklanmıyor.",
+      "sourceType": "yüklenen doküman / yıllık-sürdürülebilirlik raporu",
+      "documentName": "HM Group Annual & Sustainability Report 2025",
+      "pageOrUrl": "PDF s.43 ve s.62, Water pollution / Our policies and commitments",
+      "accessNote": "Yüklenen PDF",
+      "confidence": "Orta"
+    },
+    {
+      "sheetName": "E2 Indicator ve Soru Seti",
+      "indicatorRef": " / Satır 31 / Primary microplastics",
+      "infoSummary": "Doğrudan çevreye salınan birincil mikroplastik miktarı ayrıca verilmemiş.",
+      "sourceType": "yüklenen doküman / yıllık-sürdürülebilirlik raporu",
+      "documentName": "HM Group Annual & Sustainability Report 2025",
+      "pageOrUrl": "PDF s.43 ve s.62, Water pollution / Our policies and commitments",
+      "accessNote": "Yüklenen PDF",
+      "confidence": "Orta"
+    },
+    {
+      "sheetName": "E2 Indicator ve Soru Seti",
+      "indicatorRef": " / Satır 32 / Secondary microplastics",
+      "infoSummary": "İkincil mikroplastik/mikrofiber riski material konu olarak tanımlanıyor; ancak nicel metrik verilmiyor.",
+      "sourceType": "yüklenen doküman / yıllık-sürdürülebilirlik raporu",
+      "documentName": "HM Group Annual & Sustainability Report 2025",
+      "pageOrUrl": "PDF s.43 ve s.62, Water pollution / Our policies and commitments",
+      "accessNote": "Yüklenen PDF",
+      "confidence": "Orta"
+    },
+    {
+      "sheetName": "E2 Indicator ve Soru Seti",
+      "indicatorRef": " / Satır 33 / Secondary microplastics",
+      "infoSummary": "En az nitel düzeyde açıklama var: şirket mikrofiber/mikroplastik salımını önemli çevresel konu olarak tanımlıyor ve Microfibre 2030 ile çalışıyor.",
+      "sourceType": "yüklenen doküman / yıllık-sürdürülebilirlik raporu",
+      "documentName": "HM Group Annual & Sustainability Report 2025",
+      "pageOrUrl": "PDF s.43 ve s.62, Water pollution / Our policies and commitments",
+      "accessNote": "Yüklenen PDF",
+      "confidence": "Yüksek"
+    },
+    {
+      "sheetName": "E2 Indicator ve Soru Seti",
+      "indicatorRef": " / Satır 34 / Methodological robustness",
+      "infoSummary": "Kirleticiler ve mikroplastikler için kg/ton bazlı nicel disclosure sunulmuyor.",
+      "sourceType": "yüklenen doküman / yıllık-sürdürülebilirlik raporu",
+      "documentName": "HM Group Annual & Sustainability Report 2025",
+      "pageOrUrl": "PDF s.43 ve s.62, Water pollution / Our policies and commitments",
+      "accessNote": "Yüklenen PDF",
+      "confidence": "Orta"
+    },
+    {
+      "sheetName": "E2 Indicator ve Soru Seti",
+      "indicatorRef": " / Satır 35 / Methodological robustness",
+      "infoSummary": "E-PRTR/IEPR veya eşdeğer kirletici envanterine doğrudan referans görülmüyor.",
+      "sourceType": "yüklenen doküman / yıllık-sürdürülebilirlik raporu",
+      "documentName": "HM Group Annual & Sustainability Report 2025",
+      "pageOrUrl": "PDF s.43 ve s.62, Water pollution / Our policies and commitments",
+      "accessNote": "Yüklenen PDF",
+      "confidence": "Orta"
+    },
+    {
+      "sheetName": "E2 Indicator ve Soru Seti",
+      "indicatorRef": " / Satır 36 / ",
+      "infoSummary": "Dış arıtma tesislerine transfer edilen su kirleticilerine ilişkin entity-specific disclosure yok.",
+      "sourceType": "yüklenen doküman / yıllık-sürdürülebilirlik raporu",
+      "documentName": "HM Group Annual & Sustainability Report 2025",
+      "pageOrUrl": "PDF s.43 ve s.62, Water pollution / Our policies and commitments",
+      "accessNote": "Yüklenen PDF",
+      "confidence": "Orta"
+    },
+    {
+      "sheetName": "E2 Indicator ve Soru Seti",
+      "indicatorRef": "E-2-5 / Satır 37 / SoC/SVHC relevance assessment",
+      "infoSummary": "Şirket SoC/SVHC ile bağlantılı impacts ve risks'i değerlendiriyor; Chemical Restrictions List ve Sustainability Commitment bu alanı açıkça kapsıyor.",
+      "sourceType": "yüklenen doküman / yıllık-sürdürülebilirlik raporu",
+      "documentName": "HM Group Annual & Sustainability Report 2025",
+      "pageOrUrl": "PDF s.62, Our policies and commitments",
+      "accessNote": "Yüklenen PDF",
+      "confidence": "Yüksek"
+    },
+    {
+      "sheetName": "E2 Indicator ve Soru Seti",
+      "indicatorRef": " / Satır 38 / SoC/SVHC relevance assessment",
+      "infoSummary": "Regülasyon uyumu ve uluslararası listelere atıf var; ancak düzenleme değişikliği riskleri ayrı risk kategorisi olarak detaylandırılmıyor.",
+      "sourceType": "yüklenen doküman / yıllık-sürdürülebilirlik raporu",
+      "documentName": "HM Group Annual & Sustainability Report 2025",
+      "pageOrUrl": "PDF s.62, Our policies and commitments",
+      "accessNote": "Yüklenen PDF",
+      "confidence": "Orta"
+    },
+    {
+      "sheetName": "E2 Indicator ve Soru Seti",
+      "indicatorRef": " / Satır 39 / SVHC use disclosure (for users of substances)",
+      "infoSummary": "Üretim/hizmet sırasında kullanılan toplam SVHC ağırlığı açıklanmıyor.",
+      "sourceType": "yüklenen doküman / yıllık-sürdürülebilirlik raporu",
+      "documentName": "HM Group Annual & Sustainability Report 2025",
+      "pageOrUrl": "PDF s.62, Our policies and commitments",
+      "accessNote": "Yüklenen PDF",
+      "confidence": "Orta"
+    },
+    {
+      "sheetName": "E2 Indicator ve Soru Seti",
+      "indicatorRef": " / Satır 40 / SVHC use disclosure (for users of substances)",
+      "infoSummary": "Doğrudan çevreye salınan toplam SVHC ağırlığı açıklanmıyor.",
+      "sourceType": "yüklenen doküman / yıllık-sürdürülebilirlik raporu",
+      "documentName": "HM Group Annual & Sustainability Report 2025",
+      "pageOrUrl": "PDF s.62, Our policies and commitments",
+      "accessNote": "Yüklenen PDF",
+      "confidence": "Orta"
+    },
+    {
+      "sheetName": "E2 Indicator ve Soru Seti",
+      "indicatorRef": " / Satır 41 / SVHC in articles disclosure",
+      "infoSummary": "%0.1 w/w üzeri SVHC içeren procured components/articles için madde isimleri açıklanmıyor.",
+      "sourceType": "yüklenen doküman / yıllık-sürdürülebilirlik raporu",
+      "documentName": "HM Group Annual & Sustainability Report 2025",
+      "pageOrUrl": "PDF s.62, Our policies and commitments",
+      "accessNote": "Yüklenen PDF",
+      "confidence": "Orta"
+    }
+  ],
+  "gapNote": "Target ve Metric katmanları bazı topic’lerde (özellikle E2 Metric, S3 Target, G1 Target) zayıf; politika/aksiyon görece daha güçlü."
+}
