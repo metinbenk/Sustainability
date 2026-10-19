@@ -31,3 +31,10 @@ yarn-error.log*
 
 # typescript
 *.tsbuildinfo
+
+certificates
+# next experimental https
+certificates
+
+# auto-generated agent rules
+AGENTS.md

@@ -9,7 +9,9 @@ npm install
 npm run dev
 ```
 
-Tarayıcı: [http://localhost:3000](http://localhost:3000)
+Tarayıcı: **[https://localhost:3000](https://localhost:3000)** (varsayılan `dev` HTTPS — şirket HTTP engeli için).
+
+İlk açılışta self-signed sertifika uyarısı çıkabilir → **Advanced / devam et** ile kabul edin. HTTP gerekirse: `npm run dev:http`.
 
 İsteğe bağlı AI:
 
